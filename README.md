@@ -15,7 +15,7 @@ This is a simple login and registration system I implemented using FastAPI and M
 > The password is yours to do just replace it.
 > Schema name is login
 > table name is users
-> you know what columns you need to configure. just username and password
+> you know what columns you need to configure btwjust username and password for those two columns
 
 ## Twist
 
