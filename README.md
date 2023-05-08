@@ -9,6 +9,14 @@ This is a simple login and registration system I implemented using FastAPI and M
 - PyMySQL
 - uvicorn 
 
+
+> you get the host 127.0.0.1 when you make a new user in mysql workbench
+> The name of the user made was Login Name (yes theres space in that)
+> The password is yours to do just replace it.
+> Schema name is login
+> table name is users
+> you know what columns you need to configure. just username and password
+
 ## Twist
 
 The code is dirty but simple. IF i mean dirty i really meant theres tons of bugs but this thing kinda works too.
